@@ -310,7 +310,7 @@
         name: "Cyberpunk Jacket",
         price: 1299,
         caption: "Bold and futuristic jacket inspired by digital culture. Perfect for any streetwear look.",
-        image: "product3.jpg"
+        image: "20250603-WA0012.jpg"
       },
       {
         id: 4,
